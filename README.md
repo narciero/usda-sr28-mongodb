@@ -1,4 +1,7 @@
-usda-sr25-mongodb
+usda-sr28-mongodb
 =================
 
-Converter for the USDA SR-25 nutrition data set (http://www.ars.usda.gov/Services/docs.htm?docid=22771) into MongoDB
+Forked from the usda-sr25-mongodb converter.
+
+#### Updates
+Converter for the USDA SR-28 nutrition data set into MongoDB using a custom document format (stores foods along with their nutritional info, rather than 2 relational collections).
