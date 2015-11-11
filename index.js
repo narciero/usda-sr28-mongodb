@@ -7,7 +7,7 @@ var async = require('async'),
 var COLUMN_DELIMITER = '^';
 var STRING_DELIMITER = '~';
 
-mongodb.connect("mongodb://localhost:27017/usda", function(error, db) {
+mongodb.connect("mongodb://localhost:27017/usda28", function(error, db) {
   conn = db;
   var collection = db.collection("nutrition");
 
