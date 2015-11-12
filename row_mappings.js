@@ -2,8 +2,7 @@ exports.FOOD_DES_MAPPING = {
   _id : 0,
   foodGroup : 1,
   description : 2,
-  manufacturer : 5,
-  survey : 6
+  manufacturer : 5
 };
 
 exports.NUTR_DEF_MAPPING = {

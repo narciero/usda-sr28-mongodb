@@ -78,8 +78,6 @@ var run = function(collection) {
         if (error) {
           console.log("Error saving " + food._id);
           console.log(error);
-        } else {
-          console.log("Inserted " + food._id);
         }
         callback(error, result);
       });

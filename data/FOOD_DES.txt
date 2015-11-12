@@ -2467,7 +2467,7 @@
 ~09517~^~0900~^~Apple juice, canned or bottled, unsweetened, with added ascorbic acid, calcium, and potassium~^~APPLE JUC,CND OR BTLD,UNSWTND,W/ ADDED VIT C,CA,& K~^~~^~~^~Y~^~~^0^~~^^^^
 ~09518~^~0900~^~Raspberries, frozen, unsweetened~^~RASPBERRIES,FRZ,UNSWTND~^~~^~~^~~^~~^0^~~^6.25^3.36^8.37^3.60
 ~09519~^~0900~^~Guava nectar, with sucralose, canned~^~GUAVA NECTAR,W/ SUCRALOSE,CND~^~~^~~^~Y~^~~^0^~~^^^^
-~09520~^~0900~^~Kiwifruit, ZESPRI SunGold, raw~^~KIWIFRUIT,ZESPRI SUNGOLD,RAW~^~Gold3~^~~^~~^~Skin~^28^~Actinidia chinensis ï¿½Zesy002ï¿½ (Gold3)~^^3.36^8.37^3.60
+~09520~^~0900~^~Kiwifruit, ZESPRI SunGold, raw~^~KIWIFRUIT,ZESPRI SUNGOLD,RAW~^~Gold3~^~~^~~^~Skin~^28^~Actinidia chinensis ‘Zesy002’ (Gold3)~^^3.36^8.37^3.60
 ~09522~^~0900~^~Cranberry juice blend, 100% juice, bottled, with added vitamin C and calcium~^~CRANBERRY JUC BLEND,100% JUC,BTLD,W/ ADDED VIT C & CA~^~~^~~^~Y~^~~^0^~~^6.25^3.36^8.37^3.92
 ~09523~^~0900~^~Lemon juice from concentrate, bottled, CONCORD~^~LEMON JUC FROM CONC,BTLD,CONCORD~^~~^~Concord Foods~^~~^~~^0^~~^^^^
 ~09524~^~0900~^~Lemon juice from concentrate, bottled, REAL LEMON~^~LEMON JUC FROM CONC,BTLD,REAL LEMON~^~~^~~^~~^~~^0^~~^^3.36^8.37^2.70
